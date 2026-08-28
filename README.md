@@ -1,14 +1,15 @@
 # Índice · FINANCIAMIENTO.md
 
-
-- [1. Requisitos de Stellar Community Fund](#1-requisitos-de-stellar-community-fund) 
-- [2. Funcionamiento de Drips Protocol](#2-funcionamiento-de-drips-protocol) 
-- [3. Backlog por fases ligado al financiamiento](#5-backlog-por-fases-ligado-al-financiamiento) 
-- [4. El hueco honesto](#6-el-hueco-honesto)
-- [5. Uso de fuentes primarias, incluidas en inglés](#3-uso-de-fuentes-primarias-incluidas-en-inglés) 
+- [1. Requisitos de Stellar Community Fund](#1-requisitos-de-stellar-community-fund)
+- [2. Funcionamiento de Drips Protocol](#2-funcionamiento-de-drips-protocol)
+- [3. Backlog por fases ligado al financiamiento](#3-backlog-por-fases-ligado-al-financiamiento)
+- [4. El hueco honesto](#4-el-hueco-honesto)
+- [5. Uso de fuentes primarias, incluidas en inglés](#5-uso-de-fuentes-primarias-incluidas-en-inglés)
 
 ---
+
 # REPOSITORIO E INFRAESTRUCTURA FINANCIERA (STELLAR / DRIPS)
+
 ## 1. Requisitos de Stellar Community Fund
 
 El **Stellar Community Fund (SCF)** es el programa oficial de becas de la Stellar Development Foundation (SDF) para financiar proyectos construidos sobre Stellar y Soroban. En enero de 2026 se lanzó **SCF 7.0**, la versión vigente al momento de esta consulta.
@@ -57,7 +58,6 @@ El **Stellar Community Fund (SCF)** es el programa oficial de becas de la Stella
 
 ---
 
-
 ## 3. Backlog por fases ligado al financiamiento
 
 Ejemplo de estructura para relacionar el backlog con las fuentes de financiamiento investigadas. Sustituyan los corchetes con las fases reales de su proyecto:
@@ -69,7 +69,6 @@ Ejemplo de estructura para relacionar el backlog con las fuentes de financiamien
 | Fase 3: Mainnet | [Despliegue en Stellar Mainnet] | SCF Build, tramos 3–4 | Los tramos finales se liberan al validar hitos de lanzamiento, el criterio que evalúa el panel. |
 | Fase 4: Sostenibilidad | [Financiamiento continuo de mantenimiento] | Drip List (Ethereum/EVM) | Streaming continuo de dependencias una vez reclamado el repo — canal adicional, no en Stellar. |
 
-
 [⬆ volver al índice](#índice--financiamientomd)
 
 ---
@@ -80,10 +79,13 @@ Al 28 de agosto de 2026, la investigación muestra un hueco real: el equipo **no
 
 **Plan para cerrarlo:** contactar al equipo de Drips (Discord o docs.drips.network) para confirmar si existe o está planeada una ruta de streaming compatible con Soroban, o si por ahora la única opción realista es combinar Drips Wave (recompensas puntuales) con una tesorería paralela en Ethereum/EVM para el streaming continuo.
 
+> **Fecha estimada de cierre:** [definir con el equipo].
 
 [⬆ volver al índice](#índice--financiamientomd)
-## 5. Uso de fuentes primarias, incluidas en inglés
 
+---
+
+## 5. Uso de fuentes primarias, incluidas en inglés
 
 1. Stellar Development Foundation, *SCF Handbook — Build Award* — https://stellar.gitbook.io/scf-handbook/scf-awards/build-award (inglés)
 2. Stellar Development Foundation, *SCF Handbook — Submission Criteria* — https://stellar.gitbook.io/scf-handbook/scf-awards/build-award/submission-criteria (inglés)
@@ -92,5 +94,3 @@ Al 28 de agosto de 2026, la investigación muestra un hueco real: el equipo **no
 5. Drips Network, *Participating in a Wave* — https://docs.drips.network/wave/maintainers/participating-in-a-wave/ (inglés)
 
 [⬆ volver al índice](#índice--financiamientomd)
-
----
